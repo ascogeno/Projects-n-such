@@ -33,7 +33,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 1/14 | 10:50pm    |    IM    | Environ Setup       |      30       |
 | 1/15 | 6:00pm     |    IM    | Main Class Creation |      60       |
 | 1/15 | 9:00pm     |    IM    | Learning functions  |      60       |
-|      |            |          |                     |               |
+| 1/16 | 10:15am    |   MTG    | Repo construction   |      60       |
 |      |            |          |                     |               |
 |      |            |          |                     |               |
 |      |            |          |                     |               |
