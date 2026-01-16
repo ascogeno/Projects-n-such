@@ -25,28 +25,28 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date | Start Time | Category | Description   | Total Minutes |
-| ---- | ---------- | :------: | ------------- | :-----------: |
-| 1/12 | 10:45am    |    TP    | Planning      |      20       |
-| 1/14 | 10:25am    |    TP    | Planning      |      50       |
-| 1/13 | 8:00pm     |    IM    | Research      |      60       |
-| 1/14 | 10:50pm    |    IM    | Environ Setup |      30       |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
-|      |            |          |               |               |
+| Date | Start Time | Category | Description         | Total Minutes |
+| ---- | ---------- | :------: | ------------------- | :-----------: |
+| 1/12 | 10:45am    |    TP    | Planning            |      20       |
+| 1/14 | 10:25am    |    TP    | Planning            |      50       |
+| 1/13 | 8:00pm     |    IM    | Research            |      60       |
+| 1/14 | 10:50pm    |    IM    | Environ Setup       |      30       |
+| 1/15 | 6:00pm     |    IM    | Main Class Creation |      60       |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
+|      |            |          |                     |               |
 
 _Note: Add more rows as needed._
 
