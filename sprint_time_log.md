@@ -25,28 +25,28 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date | Start Time | Category | Description                             | Total Minutes |
-| ---- | ---------- | :------: | --------------------------------------- | :-----------: |
-| 1/12 | 10:45am    |    TP    | Planning                                |      20       |
-| 1/14 | 10:25am    |    TP    | Planning                                |      50       |
-| 1/13 | 8:00pm     |    IM    | Research                                |      60       |
-| 1/14 | 10:50pm    |    IM    | Environ Setup                           |      30       |
-| 1/15 | 6:00pm     |    IM    | Main Class Creation                     |      60       |
-| 1/15 | 9:00pm     |    IM    | Learning functions                      |      60       |
-| 1/16 | 10:15am    |   MTG    | Repo construction                       |      60       |
-| 1/16 | 3:00pm     |    TP    | Testing Repo works on multiple machines |      30       |
-| 1/19 | 11:15am    |    IM    | Finishing project                       |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
+| Date | Start Time | Category | Description                                    | Total Minutes |
+| ---- | ---------- | :------: | ---------------------------------------------- | :-----------: |
+| 1/12 | 10:45am    |    TP    | Planning                                       |      20       |
+| 1/14 | 10:25am    |    TP    | Planning                                       |      50       |
+| 1/13 | 8:00pm     |    IM    | Research                                       |      60       |
+| 1/14 | 10:50pm    |    IM    | Environ Setup                                  |      30       |
+| 1/15 | 6:00pm     |    IM    | Main Class Creation                            |      60       |
+| 1/15 | 9:00pm     |    IM    | Learning functions                             |      60       |
+| 1/16 | 10:15am    |   MTG    | Repo construction                              |      60       |
+| 1/16 | 3:00pm     |    TP    | Testing Repo works on multiple machines        |      30       |
+| 1/19 | 11:15am    |    IM    | Finishing project                              |      120      |
+| 1/20 | 4:00pm     |    IM    | THIS SUCKS (Making C++ graphics libarary work) |      120      |
+| 1/21 | 3:00pm     |    IM    | Still making C++ work                          |      120      |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
+|      |            |          |                                                |               |
 
 _Note: Add more rows as needed._
 
