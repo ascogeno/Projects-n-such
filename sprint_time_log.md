@@ -37,8 +37,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 1/16 | 3:00pm     |    TP    | Testing Repo works on multiple machines        |      30       |
 | 1/19 | 11:15am    |    IM    | Finishing project                              |      120      |
 | 1/20 | 4:00pm     |    IM    | THIS SUCKS (Making C++ graphics libarary work) |      120      |
-| 1/21 | 3:00pm     |    IM    | Still making C++ work                          |      120      |
-|      |            |          |                                                |               |
+| 1/21 | 3:00pm     |    IM    | Still making C++ work                          |      180      |
+| 1/21 | 10:45pm    |    TP    | In class meeting                               |      30       |
 |      |            |          |                                                |               |
 |      |            |          |                                                |               |
 |      |            |          |                                                |               |
@@ -54,7 +54,7 @@ _Note: Add more rows as needed._
 
 | Categroy               | Total Time (Hours:Minutes) |
 | ---------------------- | :------------------------: |
-| IM - Individual Module |                            |
-| TP - Team Project      |                            |
-| MTG - Class Meetings   |                            |
+| IM - Individual Module |           10:30            |
+| TP - Team Project      |            2:10            |
+| MTG - Class Meetings   |            4:00            |
 | **TOTAL**              |                            |
