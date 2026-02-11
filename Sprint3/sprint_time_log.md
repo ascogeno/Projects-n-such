@@ -25,14 +25,14 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date | Start Time | Category | Description                             | Total Minutes |
-| ---- | ---------- | :------: | --------------------------------------- | :-----------: |
-| 2/9  | 10:50      |   MTG    | Planned new issues and responsibilities |      25       |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
-|      |            |          |                                         |               |
+| Date | Start Time | Category | Description                                         | Total Minutes |
+| ---- | ---------- | :------: | --------------------------------------------------- | :-----------: |
+| 2/9  | 10:50      |   MTG    | Planned new issues and responsibilities             |      25       |
+| 2/10 | 5:45       |    IM    | Going through tutorial and created tutorial project |      30       |
+|      |            |          |                                                     |               |
+|      |            |          |                                                     |               |
+|      |            |          |                                                     |               |
+|      |            |          |                                                     |               |
 
 _Note: Add more rows as needed._
 
