@@ -31,7 +31,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 2/10 | 5:45       |    IM    | Going through tutorial and created tutorial project |      30       |
 | 2/11 | 10:25      |   MTG    | Working on Save Feature                             |      50       |
 | 2/12 | 6:30pm     |    TP    | Syncing new branch. Took too long                   |      30       |
-|      |            |          |                                                     |               |
+| 2/13 | 11:00pm    |    TP    | Working on save feature. might've broken things     |      120      |
 |      |            |          |                                                     |               |
 
 _Note: Add more rows as needed._
