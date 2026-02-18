@@ -21,7 +21,7 @@ def report(request):
     # Generate a random scam score for fun
     rng = random.Random()
     report_data = {
-        "ip_adress": ".".join(str(rng.randint(1, 255)) for _ in range(4)),
+        "ip_address": ".".join(str(rng.randint(1, 255)) for _ in range(4)),
         "connected_devices": rng.randint(1, 5),
         "threat_level": rng.choice(['Low', 'Medium', 'High']),
         "password": rng.choice(['password123', 'letmein', 'qwerty']),
