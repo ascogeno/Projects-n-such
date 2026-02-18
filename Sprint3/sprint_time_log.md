@@ -32,7 +32,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 2/11 | 10:25      |   MTG    | Working on Save Feature                             |      50       |
 | 2/12 | 6:30pm     |    TP    | Syncing new branch. Took too long                   |      30       |
 | 2/13 | 11:00pm    |    TP    | Working on save feature. might've broken things     |      120      |
-|      |            |          |                                                     |               |
+| 2/17 | 6:30pm     |    IM    | Finally making Django project                       |               |
 
 _Note: Add more rows as needed._
 

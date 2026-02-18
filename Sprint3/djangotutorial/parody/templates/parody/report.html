@@ -1,0 +1,25 @@
+{% extends "parody/base.html" %}
+{% block title %}Doxx Report{% endblock %}
+
+{% block content %}
+    <h2>Doxx Report</h2>
+    
+    <div class = "card">
+        <h3>Report Details</h3>
+        <p><strong>Hacker Name:</strong> {{ user.nickname }}</p>
+        <p><strong>Mom's maiden name:</strong> {{ user.maiden_name }}</p>
+        <p><strong>Favorite Number:</strong> {{ user.favorite_number }}</p>
+    </div>
+    <div class="card">
+        <h3>Report Summary</h3>
+        <p>This report contains sensitive information about the user. Handle with care!</p>
+        <p><strong>IP Address:</strong> {{ report.ip_address }}</p>
+        <p><strong>Connected Devices:</strong> {{ report.connected_devices }}</p>
+        <p><strong>Threat Level:</strong> {{ report.threat_level }}</p>
+        <p><strong>Password:</strong> {{ report.password }}</p>
+        <p><strong>Location Triangulated using the bushes:</strong> {{ report.location}}</p>
+        <p><strong>Warning Count:</strong> {{ report.warning_count }}</p>
+    </div>
+
+    <p><a href="{% url 'parody:home' %}">Back to Home</a></p>
+{% endblock %}

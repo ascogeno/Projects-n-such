@@ -1,0 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Call Center Database</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'parody/style.css' %}">
+</head>
+<body>
+    <header class = "topbar">
+        <img class = "logo" src="{% static 'parody/eggcognito.png' %}" alt="Logo">
+            <h1>Doxx time baby</h1>
+    </header>
+
+    <main class = "container">
+            {% block content %}
+            {% endblock %}
+    </main>
+
+    <footer class = "footer">
+        <p><strong> I'm legally adviced to say this is a parody. I can't imagine this being used outside this classroom, and there are much better templates out there, but yes. This isn't real.</strong></p>
+    </footer>
+</body>
+</html>

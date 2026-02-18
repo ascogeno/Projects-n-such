@@ -1,0 +1,14 @@
+{% extends "parody/base.html" %}
+{% block title %}Call Center Database{% endblock %}
+
+{% block content %}
+    <h2>Welcome to the Indian Call Center Database!</h2>
+    <p>This is a parody website created for educational purposes. It is not a real call center database and should not be used as such.</p>
+    <p>Feel free to explore the site, but remember that it is just a joke!</p>
+
+    <form method="post" class="card">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}
