@@ -25,7 +25,6 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-<<<<<<< HEAD
 | Date | Start Time | Category | Description                                                              | Total Minutes |
 | ---- | ---------- | :------: | ------------------------------------------------------------------------ | :-----------: |
 | 2/9  | 10:50      |   MTG    | Planned new issues and responsibilities                                  |      25       |
@@ -35,17 +34,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 2/13 | 11:00pm    |    TP    | Working on save feature. might've broken things                          |      120      |
 | 2/17 | 6:30pm     |    IM    | Finally making Django project                                            |      180      |
 | 2/18 | 7:30pm     |    IM    | Experiementing with making a Django project from scratch                 |      180      |
-| 2/19 | 10:00pm    |    IM    | Eventually gave up, just went and resized the logo with the main project |      120      |
-=======
-| Date | Start Time | Category | Description                                         | Total Minutes |
-| ---- | ---------- | :------: | --------------------------------------------------- | :-----------: |
-| 2/9  | 10:50      |   MTG    | Planned new issues and responsibilities             |      25       |
-| 2/10 | 5:45       |    IM    | Going through tutorial and created tutorial project |      30       |
-| 2/11 | 10:25      |   MTG    | Working on Save Feature                             |      50       |
-| 2/12 | 6:30pm     |    TP    | Syncing new branch. Took too long                   |      30       |
-| 2/13 | 11:00pm    |    TP    | Working on save feature. might've broken things     |      120      |
-| 2/17 | 6:30pm     |    IM    | Finally making Django project                       |      180      |
->>>>>>> 57a0840e9ff35d7315c1a12d04a7aa742000624e
+| 2/20 | 10:00pm    |    IM    | Eventually gave up, just went and resized the logo with the main project |      120      |
 
 _Note: Add more rows as needed._
 
