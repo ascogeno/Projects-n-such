@@ -27,7 +27,16 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 | Date | Start Time | Category | Description                                     | Total Minutes |
 | ---- | ---------- | :------: | ----------------------------------------------- | :-----------: |
-| 2/23 | 10:15      |   MTG    | New sprint planning and setting up new time log |      30       |
+| 2/23 | 10:15      |   MTG    | New sprint planning and setting up new time log |      60       |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
+|      |            |          |                                                 |               |
 
 _Note: Add more rows as needed._
 
