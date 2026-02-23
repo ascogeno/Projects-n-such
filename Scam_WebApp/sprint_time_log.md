@@ -1,0 +1,48 @@
+# CSE 310 - Sprint Time Log
+
+Name:Kyle Rosengren
+
+Sprint #: 3 (Web Apps)
+
+## Instructions
+
+Record all CSE 310 work that you do either inside class or outside of class. Include time learning, practicing, developing, testing, and documenting. It is important to update this log every day.
+
+For the Category column, record one of the following:
+
+- IM - You are working on your Individual Module (Don't include Planning Meeting in class)
+- TP - You are working on your Team Project (include Team Project Work Days)
+- MTG - You are in one of the following class meetings: Planning, Stand-Up, Team Review, or Individual Review
+
+The expected minimum amount of time each Sprint for each category is as follows:
+
+| Categroy               | Total Time (Hours:Minutes) |
+| ---------------------- | :------------------------: |
+| IM - Individual Module |           10:00            |
+| TP - Team Project      |            4:00            |
+| MTG - Class Meetings   |            4:00            |
+| **TOTAL**              |         **18:00**          |
+
+## Time Log
+
+| Date | Start Time | Category | Description                                                              | Total Minutes |
+| ---- | ---------- | :------: | ------------------------------------------------------------------------ | :-----------: |
+| 2/9  | 10:50      |   MTG    | Planned new issues and responsibilities                                  |      25       |
+| 2/10 | 5:45       |    IM    | Going through tutorials and created tutorial project                     |      150      |
+| 2/11 | 10:25      |   MTG    | Working on Save Feature                                                  |      50       |
+| 2/12 | 6:30pm     |    TP    | Syncing new branch. Took too long                                        |      30       |
+| 2/13 | 11:00pm    |    TP    | Working on save feature. might've broken things                          |      120      |
+| 2/17 | 6:30pm     |    IM    | Finally making Django project                                            |      180      |
+| 2/18 | 7:30pm     |    IM    | Experiementing with making a Django project from scratch                 |      180      |
+| 2/20 | 10:00pm    |    IM    | Eventually gave up, just went and resized the logo with the main project |      120      |
+
+_Note: Add more rows as needed._
+
+## Sprint Totals
+
+| Categroy               | Total Time (Hours:Minutes) |
+| ---------------------- | :------------------------: |
+| IM - Individual Module |           10:30            |
+| TP - Team Project      |            2:30            |
+| MTG - Class Meetings   |            2:00            |
+| **TOTAL**              |                            |
