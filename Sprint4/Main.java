@@ -1,6 +1,9 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class Main {
+    static ArrayList<String> movieArray = new ArrayList<String>();
+
     public static void main(String[] args) {
         System.out.println("Howdy World");
         System.out.println("Huh:");
@@ -13,5 +16,10 @@ public class Main {
             String userInput = userScannner.nextLine();
             return userInput;
         }
+    }
+
+    public static ArrayList moviesToArray(String movie) {
+        movieArray.add(movie);
+        return movieArray;
     }
 }
