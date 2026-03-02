@@ -31,7 +31,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 2/26 | 6:30pm     |    TP    | Working on save feature                         |      35       |
 | 2/27 | 11:30am    |    TP    | Finished Prototyping save feature               |      130      |
 | 2/27 | 3:30pm     |    IM    | Working on Java Project                         |      120      |
-|      |            |          |                                                 |               |
+| 3/2  | 10:15am    |   MTG    | Working on merging save with calendar           |      60       |
 |      |            |          |                                                 |               |
 |      |            |          |                                                 |               |
 |      |            |          |                                                 |               |
