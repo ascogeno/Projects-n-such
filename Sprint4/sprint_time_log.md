@@ -25,19 +25,19 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date | Start Time | Category | Description                                     | Total Minutes |
-| ---- | ---------- | :------: | ----------------------------------------------- | :-----------: |
-| 2/23 | 10:15am    |   MTG    | New sprint planning and setting up new time log |      60       |
-| 2/26 | 6:30pm     |    TP    | Working on save feature                         |      35       |
-| 2/27 | 11:30am    |    TP    | Finished Prototyping save feature               |      130      |
-| 2/27 | 3:30pm     |    IM    | Working on Java Project                         |      120      |
-| 3/2  | 10:15am    |   MTG    | Working on merging save with calendar           |      60       |
-|      |            |          |                                                 |               |
-|      |            |          |                                                 |               |
-|      |            |          |                                                 |               |
-|      |            |          |                                                 |               |
-|      |            |          |                                                 |               |
-|      |            |          |                                                 |               |
+| Date | Start Time | Category | Description                                                                   | Total Minutes |
+| ---- | ---------- | :------: | ----------------------------------------------------------------------------- | :-----------: |
+| 2/23 | 10:15am    |   MTG    | New sprint planning and setting up new time log                               |      60       |
+| 2/26 | 6:30pm     |    TP    | Working on save feature                                                       |      35       |
+| 2/27 | 11:30am    |    TP    | Finished Prototyping save feature                                             |      130      |
+| 2/27 | 3:30pm     |    IM    | Working on Java Project                                                       |      120      |
+| 3/2  | 10:15am    |   MTG    | Working on merging save with calendar                                         |      60       |
+| 3/2  | 5:00pm     |    TP    | Trying to see if I can make the latest PR work, it doesnt. Something is wrong |      120      |
+| 3/2  | 11:30pm    |    IM    | Making headway with Java project, later than I wanted                         |      60       |
+|      |            |          |                                                                               |               |
+|      |            |          |                                                                               |               |
+|      |            |          |                                                                               |               |
+|      |            |          |                                                                               |               |
 
 _Note: Add more rows as needed._
 
