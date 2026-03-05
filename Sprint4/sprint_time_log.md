@@ -34,8 +34,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 3/2  | 10:15am    |   MTG    | Working on merging save with calendar                                         |      60       |
 | 3/2  | 5:00pm     |    TP    | Trying to see if I can make the latest PR work, it doesnt. Something is wrong |      120      |
 | 3/2  | 11:30pm    |    IM    | Making headway with Java project, later than I wanted                         |      60       |
-|      |            |          |                                                                               |               |
-|      |            |          |                                                                               |               |
+| 3/3  | 3:30pm     |    IM    | Basic planned functionality implemented                                       |      45       |
+| 3/4  | 2:00pm     |    IM    | Making new Movie Class to make program more robust. Or more impressive, idk   |      280      |
 |      |            |          |                                                                               |               |
 |      |            |          |                                                                               |               |
 
