@@ -7,6 +7,7 @@ public class Movie {
         this(title, false, 0);
     }
 
+    // never used
     public Movie(String title, boolean watched, int timesSeen) {
         this.title = title;
         this.watched = watched;
