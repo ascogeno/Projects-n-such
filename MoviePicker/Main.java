@@ -19,7 +19,7 @@ public class Main {
                     pickFromList(builtInMovies, "built-in movies");
                     break;
                 case "2":
-                    pickFromList(movieArray, "your movies");
+                    pickFromList(movieArray, "Your list");
                     break;
                 case "3":
                     pickFromCombined();
@@ -28,7 +28,7 @@ public class Main {
                     listMovies(builtInMovies, "Built-in Movies");
                     break;
                 case "5":
-                    listMovies(movieArray, "Your Movies");
+                    listMovies(movieArray, "Your list");
                     break;
                 case "6":
                     addMovie("");
@@ -149,7 +149,7 @@ public class Main {
 
     static void pickFromList(ArrayList<Movie> list, String label) {
         if (list.size() == 0) {
-            System.out.println(label + "is empty.");
+            System.out.println(label + " is empty.");
             return;
         }
         Random randy = new Random();
@@ -158,14 +158,14 @@ public class Main {
     }
 
     static void pickFromCombined() {
-        ArrayList<String> combined = new ArrayList<>(builtInMovies);
+        ArrayList<Movie> combined = new ArrayList<>(builtInMovies);
         combined.addAll(movieArray);
         pickFromList(combined, "combined");
     }
 
     static ArrayList<Movie> combinedList() {
         ArrayList<Movie> combined = new ArrayList<>(builtInMovies);
-        combined.addAll(userMovies);
+        combined.addAll(movieArray);
         return combined;
     }
 

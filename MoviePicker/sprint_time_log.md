@@ -36,7 +36,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 3/2  | 11:30pm    |    IM    | Making headway with Java project, later than I wanted                         |      60       |
 | 3/3  | 3:30pm     |    IM    | Basic planned functionality implemented                                       |      45       |
 | 3/4  | 2:00pm     |    IM    | Making new Movie Class to make program more robust. Or more impressive, idk   |      280      |
-|      |            |          |                                                                               |               |
+| 3/4  | 10:45      |    TP    | Figuring out if _I'M_ the problem, or if Kayla's code just isnt in the repo   |      45       |
+| 3/5  | 5:30pm     |    IM    | Lots of mistakes, wow. Fixed em. Program works now                            |      150      |
 |      |            |          |                                                                               |               |
 
 _Note: Add more rows as needed._
@@ -45,7 +46,7 @@ _Note: Add more rows as needed._
 
 | Categroy               | Total Time (Hours:Minutes) |
 | ---------------------- | :------------------------: |
-| IM - Individual Module |                            |
-| TP - Team Project      |                            |
-| MTG - Class Meetings   |                            |
+| IM - Individual Module |           10:55            |
+| TP - Team Project      |            5:30            |
+| MTG - Class Meetings   |            2:00            |
 | **TOTAL**              |                            |
