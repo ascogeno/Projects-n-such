@@ -25,14 +25,14 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date | Start Time | Category | Description                                                | Total Minutes |
-| ---- | ---------- | :------: | ---------------------------------------------------------- | :-----------: |
-| 3/9  | 10:15      |   MTG    | Planning meeting                                           |      60       |
-| 3/11 | 9:45pm     |    IM    | Installing Unity and setting up project                    |      90       |
-| 3/12 | 4:30pm     |    IM    | Going through built in Unity tutorial                      |      150      |
-| 3/12 | 9:30pm     |    IM    | Begging my unity files to work with github. Finally did it |      110      |
-|      |            |          |                                                            |               |
-|      |            |          |                                                            |               |
+| Date | Start Time | Category | Description                                                                                      | Total Minutes |
+| ---- | ---------- | :------: | ------------------------------------------------------------------------------------------------ | :-----------: |
+| 3/9  | 10:15      |   MTG    | Planning meeting                                                                                 |      60       |
+| 3/11 | 9:45pm     |    IM    | Installing Unity and setting up project                                                          |      90       |
+| 3/12 | 4:30pm     |    IM    | Going through built in Unity tutorial                                                            |      150      |
+| 3/12 | 9:30pm     |    IM    | Begging my unity files to work with github. Finally did it                                       |      110      |
+| 3/13 | 4:30pm     |    IM    | Unity is working! Made player movement and a basic plane. Close to fulfilling basic requirements |      105      |
+|      |            |          |                                                                                                  |               |
 
 _Note: Add more rows as needed._
 
