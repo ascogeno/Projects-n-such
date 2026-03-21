@@ -32,6 +32,14 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 3/12 | 4:30pm     |    IM    | Going through built in Unity tutorial                                                            |      150      |
 | 3/12 | 9:30pm     |    IM    | Begging my unity files to work with github. Finally did it                                       |      110      |
 | 3/13 | 4:30pm     |    IM    | Unity is working! Made player movement and a basic plane. Close to fulfilling basic requirements |      105      |
+| 3/17 | 8:30pm     |    IM    | More unity work, adding menus and mobile controls. Kinda janky still                             |      210      |
+| 3/18 | 1:55pm     |    TP    | Noticed the github is fixed, beginning non-proto saving                                          |      90       |
+| 3/20 | 9:30pm     |    IM    | Found the build button, among other fixes and ideas being scrapped to get this done              |      240      |
+|      |            |          |                                                                                                  |               |
+|      |            |          |                                                                                                  |               |
+|      |            |          |                                                                                                  |               |
+|      |            |          |                                                                                                  |               |
+|      |            |          |                                                                                                  |               |
 |      |            |          |                                                                                                  |               |
 
 _Note: Add more rows as needed._
@@ -40,7 +48,7 @@ _Note: Add more rows as needed._
 
 | Categroy               | Total Time (Hours:Minutes) |
 | ---------------------- | :------------------------: |
-| IM - Individual Module |                            |
-| TP - Team Project      |                            |
-| MTG - Class Meetings   |                            |
+| IM - Individual Module |           15:05            |
+| TP - Team Project      |             90             |
+| MTG - Class Meetings   |             60             |
 | **TOTAL**              |                            |
